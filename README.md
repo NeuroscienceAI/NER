@@ -12,7 +12,7 @@ NeurIPS: Scores: 7, 7, 6\
 NER is the first dimensionality reduction method which align 3D latenct dynamics with movements.
 Left: Hand velocities of center-out reaching in eight directions (colors)
 Right: Corresponding 3D latent dynamics
-![alt text](https://github.com/NeuroscienceAI/NER/blob/main/NER_Figs_pdf/vel_vs_latent_left_M1_20161014.gif)
+![alt text](https://github.com/NeuroscienceAI/NER/blob/main/NER_Figs_pdf/demo_crop_compress.gif)
 FAQ:
 1. Have you optimized the hyper-parametrs of CEBRA?
 2. What is the limination of NER relative to CEBRA?
