@@ -23,7 +23,7 @@ All network training can be reproduced through the Jupyter Notebooks in the "NER
 NER modifies CEBRA’s loss function, so if you can run CEBRA (any version), you can run NER.\
 To train NER after setting up CEBRA, you have two options:\
 1. Replace the original cebra folder (containing data, ..., solver) in your main CEBRA folder with the downloaded "NER_Code_1021" folder.
-2. Follow the instructions in "NER_Code_1021" (see NER changes to CEBRA.pdf) to modify the original CEBRA folder.\
+2. Follow the instructions in "NER_Code_1021" (see NER changes to CEBRA.pdf) to modify the original .py files in CEBRA folder.
 
 The "data" folder contains the smoothed raw data (Gaussian kernel). Since the raw data is in MATLAB format, we also processed it with MATLAB (MATLAB code included).\
 The "data_NER" folder contains intermediate results (.npz) after network training, which the Jupyter Notebooks in "NER_Figs_ipynb" use to generate .pdf figures (including demo videos) saved in the "NER_Figs_pdf" folder.
