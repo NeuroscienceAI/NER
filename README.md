@@ -3,7 +3,7 @@ Neural Embeddings Rank: Aligning 3D Latent Dynamics with Movements\
 **Chenggang Chen**, Zhiyu Yang, and Xiaoqin Wang. *NeurIPS 2024*
 
 This work has also been accepted by:\
-The First Workshop on NeuroAI @ NeurIPS 2024:\
+The First NeuroAI Workshop @ NeurIPS 2024:\
 https://neuroai-workshop.github.io  
 The Fifth Self-Supervised Learning (SSL) Workshop @ NeurIPS 2024 as an **Oral** presentation:\
 https://sslneurips2024.github.io/index.html  
