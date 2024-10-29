@@ -5,7 +5,7 @@ Neural Embeddings Rank: Aligning 3D Latent Dynamics with Movements\
 This work has also been accepted by:\
 The First Workshop on NeuroAI @ NeurIPS 2024:\
 https://neuroai-workshop.github.io  
-NeurIPS 2024 Workshop: Self-Supervised Learning (SSL) as an **Oral** presentation\
+NeurIPS 2024 Workshop: Self-Supervised Learning (SSL) as an **Oral** presentation:\
 https://sslneurips2024.github.io/index.html  
 
 NER has received eight reviews.\
