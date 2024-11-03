@@ -1,7 +1,7 @@
 This repository provides everything needed to reproduce all 17 figures from:\
 Neural Embeddings Rank: Aligning 3D Latent Dynamics with Movements\
-**Chenggang Chen**, Zhiyu Yang, and Xiaoqin Wang. *NeurIPS 2024*\
-![alt text](https://github.com/NeuroscienceAI/NER/blob/main/NER_Figs_pdf/NER%20poster.png)\
+**Chenggang Chen**, Zhiyu Yang, and Xiaoqin Wang. *NeurIPS 2024*
+
 This work has also been accepted by:\
 The First NeuroAI Workshop @ NeurIPS 2024:\
 https://neuroai-workshop.github.io  
@@ -27,7 +27,7 @@ To train NER after setting up CEBRA, you have two options:
 
 The "data" folder contains the smoothed raw data (spike counts). Since the raw data is in MATLAB format, we also processed it with MATLAB (MATLAB code included).\
 The "data_NER" folder contains intermediate results (.npz) after network training, which the Jupyter Notebooks in "NER_Figs_ipynb" use to generate .pdf figures (including demo videos) saved in the "NER_Figs_pdf" folder.
-
+![alt text](https://github.com/NeuroscienceAI/NER/blob/main/NER_Figs_pdf/NER%20poster.png)
 **FAQ:**
 
 Have you optimized CEBRA’s hyperparameters? No. We fixed the time offset to 1 time bin and temperature to 1. While grid-searching hyperparameters would likely improve both NER and CEBRA performance, we did not perform this step.
