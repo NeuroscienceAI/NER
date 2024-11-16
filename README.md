@@ -10,9 +10,9 @@ https://sslneurips2024.github.io/index.html
 
 NER has received eight reviews.\
 All reviews are above borderline acceptance (score 5), with reviewers giving higher scores also reporting higher confidence:\
-NeurIPS: Scores: 7, 7, 6; Confidence: 4, 3, 1  
-NeuroAI: Scores: 9, 7, 7; Confidence: 5, 4, 3  
-SSL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scores: 8, 7&nbsp;&nbsp;&nbsp;&nbsp;; Confidence: 2, 4
+NeurIPS&nbsp;: Scores: 7, 7, 6; Confidence: 4, 3, 1  
+NeuroAI&nbsp;: Scores: 9, 7, 7; Confidence: 5, 4, 3  
+SSL(Oral): Scores: 8, 7&nbsp;&nbsp;&nbsp;&nbsp;; Confidence: 2, 4
 
 NER is the first dimensionality reduction method capable of revealing movement-aligned 3D latent dynamics:
 ![alt text](https://github.com/NeuroscienceAI/NER/blob/main/NER_Figs_pdf/demo_crop_compress.gif)\
