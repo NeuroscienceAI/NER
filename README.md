@@ -1,6 +1,7 @@
 This repository provides everything needed to reproduce all 17 figures from:\
 Neural Embeddings Rank: Aligning 3D Latent Dynamics with Movements\
-**Chenggang Chen**, Zhiyu Yang, and Xiaoqin Wang. *NeurIPS 2024*
+**Chenggang Chen**, Zhiyu Yang, and Xiaoqin Wang. *NeurIPS 2024*\
+https://nips.cc/virtual/2024/poster/95804
 
 This work has also been accepted by:\
 The First NeuroAI Workshop @ NeurIPS 2024:\
